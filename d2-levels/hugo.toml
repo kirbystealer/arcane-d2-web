@@ -1,0 +1,4 @@
+baseURL = 'https://kirbystealer.github.io/arcane-d2-web/'
+languageCode = 'en-us'
+title = 'Arcane-D2 Information'
+publishDir = '../docs'

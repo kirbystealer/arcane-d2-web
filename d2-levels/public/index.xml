@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arcane-D2 Information</title>
+    <link>https://kirbystealer.github.io/arcane-d2-web/</link>
+    <description>Recent content on Arcane-D2 Information</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Dec 2024 14:41:18 +0100</lastBuildDate>
+    <atom:link href="https://kirbystealer.github.io/arcane-d2-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Levels</title>
+      <link>https://kirbystealer.github.io/arcane-d2-web/levels/</link>
+      <pubDate>Wed, 04 Dec 2024 14:41:18 +0100</pubDate>
+      <guid>https://kirbystealer.github.io/arcane-d2-web/levels/</guid>
+      <description>&lt;h3 id=&#34;levels&#34;&gt;Levels&lt;/h3&gt;&#xA;&lt;p&gt;Here is a table detailing information on Diablo 2 levels.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
